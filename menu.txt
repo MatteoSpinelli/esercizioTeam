@@ -8,3 +8,9 @@ Bevande:
 -Latte di mandorle
 -Smootie di verdure
 -The alla pesca
+
+Secondi Piatti:
+-salsiccia di tofu
+-cotoletta di spinaci
+-hamburger di lenticchie
+-fagiolonata
